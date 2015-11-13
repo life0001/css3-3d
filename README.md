@@ -1,5 +1,5 @@
 # css3-3d
-css实现点击事件
+css实现点击事件--sony
 <pre>
 利用input type="radio"或者type="checkbox"来实现点击事件
 <textarea><input id="slide1" type="radio" name="slider" checked></textarea>
